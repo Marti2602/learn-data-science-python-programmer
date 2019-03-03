@@ -4,7 +4,7 @@ Source: [Can you LEARN DATA SCIENCE for FREE? YES! I'll show you HOW!](https://w
 
 ## PYTHON BASICS
 
-Courses | By | Description
+Info | By | Description
 :-- | :--: | :--:
 [Quantitative Economics with Python](https://lectures.quantecon.org/py/) | [QuantEcon](https://quantecon.org/) | Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics 
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb) | [Jake Vanderplas](https://github.com/jakevdp) | Chapters 1 - 4 
@@ -18,7 +18,7 @@ Courses | By | Description
 
 ### LINEAR ALGEBRA 
 
-Courses | By
+Info | By
 :-- | :--:
 [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | [Khan Academy](https://www.khanacademy.org/)
@@ -29,7 +29,7 @@ Courses | By
 
 ### CALCULUS
 
-Courses | By
+Info | By
 :-- | :--:
 [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 [Calculus 1](https://www.khanacademy.org/math/calculus-1) | [Khan Academy](https://www.khanacademy.org/)
@@ -40,7 +40,7 @@ Courses | By
 
 ## PRACTICE PYTHON PROJECTS
 
-Courses | By | Description
+Info | By | Description
 :-- | :--: | :--:
 [Project Based Learning: Python](https://github.com/tuvtran/project-based-learning#python) | [Tu V. Tran](https://github.com/tuvtran)
 [Project Euler](https://projecteuler.net/) | [Project Euler](https://projecteuler.net/)
@@ -49,7 +49,7 @@ Courses | By | Description
 
 ## DATA EXPLORATION 
 
-Courses | By
+Info | By
 :-- | :--:
 [Python Visualization for Exploration of Data](https://github.com/StephenElston/ExploringDataWithPython/blob/master/LearningDataVisualization.ipynb) | [StephenElston](https://github.com/StephenElston)
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic#description) | [Kaggle](https://www.kaggle.com/kaggle), [Kaggle](https://www.kaggle.com/)
@@ -57,7 +57,7 @@ Courses | By
 
 ## PROBABILITY AND STATISTICS
 
-Courses | By
+Info | By
 :-- | :--:
 [Statistics and probability](https://www.khanacademy.org/math/statistics-probability) | [Khan Academy](https://www.khanacademy.org/)
 [Think Stats: Probability and Statistics for Programmers Version 1.6.0](http://greenteapress.com/thinkstats/thinkstats.pdf) | Allen B. Downey, [Green Tea Press](https://greenteapress.com/wp/)
@@ -67,7 +67,7 @@ Courses | By
 
 ## STATISTICAL LEARNING 
 
-Courses | By | Description
+Info | By | Description
 :-- | :--: | :--:
 [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/index.html) | [Gareth James](http://www-bcf.usc.edu/~gareth/), [Daniela Witten](http://www.biostat.washington.edu/~dwitten/), [Trevor Hastie](https://web.stanford.edu/~hastie/) and [Robert Tibshirani](http://statweb.stanford.edu/~tibs/), [Research Computing Facility](https://www-bcf.usc.edu/), [University of Southern California](https://www.usc.edu/) | Essential
 [Learning From Data (Introductory Machine Learning)](https://work.caltech.edu/telecourse.html) | Yaser S. Abu-Mostafa, [Caltech](https://www.caltech.edu/) |
@@ -76,7 +76,7 @@ Courses | By | Description
 
 ## PYTHON AND DATA SCIENCE
 
-Courses | By | Description
+Info | By | Description
 :-- | :--: | :--:
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb) | [Jake Vanderplas](https://github.com/jakevdp) | Chapter 5
 [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) | [scikit-learn](https://scikit-learn.org/stable/) |
@@ -84,7 +84,7 @@ Courses | By | Description
 
 ## DATA STRUCTURES AND ALGORITHMS IN PYTHON
 
-Courses | By
+Info | By
 :-- | :--:
 [Data Structures & Algorithms in Python](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Brynn Claypoole and Horatio Thomas, Grow with Google, [Udacity](https://eu.udacity.com/)
 [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html) | Brad Miller and David Ranum, Luther College
@@ -92,35 +92,35 @@ Courses | By
 
 ## TENSORFLOW
 
-Courses | By
+Info | By
 :-- | :--:
 [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) | [Google Developers](https://developers.google.com/), [Google](https://www.google.com/)
 
 
 ## SQL
 
-Courses | By
+Info | By
 :-- | :--:
 [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) | [Khan Academy](https://www.khanacademy.org/)
 
 
 ## GIT AND VERSION CONTROL
 
-Courses | By
+Info | By
 :-- | :--:
 [Pro Git](https://git-scm.com/book/en/v2) | Scott Chacon and Ben Straub, [Git](https://git-scm.com/)
 
 
 ## DATA SCIENCE
 
-Courses | By
+Info | By
 :-- | :--:
 [CS109 Data Science](https://cs109.github.io/2015/index.html) | [Harvard John A. Paulson School of Engineering and Applied Sciences](https://www.seas.harvard.edu/)
 
 
 ## R
 
-Courses | By
+Info | By
 :-- | :--:
 [Tutorials for learning R](https://www.r-bloggers.com/how-to-learn-r-2/) | [Tal Galili](https://www.r-bloggers.com/author/rlover/), [R-bloggers](https://www.r-bloggers.com/) and [DataCamp](https://www.datacamp.com/)
 
